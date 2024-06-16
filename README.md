@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Eyecon14
+- 👋 Hi, I’m Amponsah Benneth
 - 👀 I’m interested in coding and keyboard playing
-- 🌱 I’m currently learning python
+- 🌱 I’m a front end developer
 - 💞️ I’m looking to collaborate on website project with you
 - 📫 How to reach me @ +233-507-326-886
 - 😄 Pronouns: 
